@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "date": "2024-10-05",
+      "title": "Boba Workshop",
+      "tag": "workshop",
+      "shortDescription": "Learn how to make boba tea.",
+      "extendedDescription": "Join us for a detailed workshop where we teach you how to make boba tea from scratch. This event includes hands-on training with professional chefs."
+    },
+    {
+      "date": "2024-10-12",
+      "title": "Community Meeting",
+      "tag": "meeting",
+      "shortDescription": "Monthly community gathering.",
+      "extendedDescription": "Our monthly community meeting to discuss important topics and upcoming events. All members are encouraged to attend and participate."
+    },
+    {
+      "date": "2024-10-25",
+      "title": "Birthday Celebration",
+      "tag": "birthday",
+      "shortDescription": "Celebrate with us!",
+      "extendedDescription": "Join us in celebrating a special birthday with games, food, and drinks. Everyone is welcome to attend!"
+    }
+  ]
+}
