@@ -15,6 +15,13 @@
       "extendedDescription": "Our monthly community meeting to discuss important topics and upcoming events. All members are encouraged to attend and participate."
     },
     {
+      "date": "2024-11-11",
+      "title": "Random thing",
+      "tag": "misc",
+      "shortDescription": "random stuff",
+      "extendedDescription": "a really long description of randoms stuff i cant be bothered to type out but i need to fill out more characters so waa waa waaa."
+    },
+    {
       "date": "2024-10-25",
       "title": "Birthday Celebration",
       "tag": "birthday",
